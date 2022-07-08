@@ -1,6 +1,6 @@
 using System;
 
-Public Class{
+Public Class {
 private string _nombre;
 private sring _apellido;
 }
